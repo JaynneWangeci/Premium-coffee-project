@@ -40,7 +40,7 @@ Smooth scrolling between sections
 Technologies
 HTML5; Semantic markup structure
 
-CSS3: Modern styling with Flexbox and CSS variables
+CSS; Modern styling with Flexbox and CSS variables
 
 JavaScript: Interactive elements and dynamic content
 
