@@ -19,6 +19,7 @@ About
 shanky's cafe  is a modern, responsive website for an artisan coffee shop. It showcases premium coffee selections, tells the brand's story, and provides contact information for customers.
 
 Features
+
 Responsive Design: Works seamlessly on all devices
 
 Interactive Menu: Dynamic coffee selection loaded from JavaScript
