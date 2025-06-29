@@ -44,7 +44,7 @@ CSS; Modern styling with Flexbox and CSS variables
 
 JavaScript; Interactive elements and dynamic content
 
-Font Awesome: Icon library
+Font Awesome; Icon library
 
 Google Fonts: Typography
 
