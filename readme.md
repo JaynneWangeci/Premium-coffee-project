@@ -30,6 +30,7 @@ Smooth Navigation: One-page scrolling with highlighted sections
 Contact Form: Functional form with validation
 
 Modern UI: Clean, coffee-themed aesthetic with appealing visuals
+
 Usage
 
 Simply open index.html in any modern web browser to view the website. The interactive elements include:
