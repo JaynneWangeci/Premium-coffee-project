@@ -13,7 +13,7 @@ https://jaynnewangeci.github.io/Premium-coffee-project/
 
 . Technologies
 
-License
+. License
 
 About
 Brew Haven is a modern, responsive website for an artisan coffee shop. It showcases premium coffee selections, tells the brand's story, and provides contact information for customers.
