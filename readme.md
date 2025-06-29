@@ -42,7 +42,7 @@ HTML5; Semantic markup structure
 
 CSS; Modern styling with Flexbox and CSS variables
 
-JavaScript: Interactive elements and dynamic content
+JavaScript; Interactive elements and dynamic content
 
 Font Awesome: Icon library
 
