@@ -38,7 +38,7 @@ Contact form submission
 Smooth scrolling between sections
 
 Technologies
-HTML5: Semantic markup structure
+HTML5; Semantic markup structure
 
 CSS3: Modern styling with Flexbox and CSS variables
 
