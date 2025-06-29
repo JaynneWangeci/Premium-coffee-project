@@ -11,7 +11,7 @@ https://jaynnewangeci.github.io/Premium-coffee-project/
 
 . Usage
 
-Technologies
+. Technologies
 
 License
 
