@@ -1,0 +1,95 @@
+body{
+    background-color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1ca717;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+.coffelist {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.coffe-card {
+    background-color: #aa2b6a;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    flex: 1 1 calc(33.333% - 20px);
+    box-sizing: border-box;
+    transition: transform 0.2s;
+}
+nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 33%;
+    margin-left: 33%;
+}
+
+.navbar li {
+    margin: 0 8px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.navbar a {
+    color: white;
+    text-decoration-style: solid;
+    text-decoration-line: none;
+    padding: 20px ;
+    border-radius: 4px;
+}
+#hero {
+    background-image: url("https://images.app.goo.gl/qVDDD95yGhCwZqER6");
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+footer {
+    background-color: #d45a2a;
+    color: white    (84, 34, 201);
+    text-align: center;
+    padding: 8px ;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+}
+.Trisha{
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    justify-content: center;
+    
+}
+.social-media {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}

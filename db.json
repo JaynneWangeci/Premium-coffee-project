@@ -1,0 +1,44 @@
+{
+    "coffee": {
+        "id": 1,
+        "name": "Cappuccino",
+        "price": 467,
+        "description": "Has a creamy texture achieved by steamed milk,milk foam and espresso."
+        "image": "https://example.com/images/coffee.jpg"
+    
+    },
+    {
+        "id": 2,
+        "name": "Espresso",
+        "price": 200,
+        "description": "A strong coffee brewed by forcing hot water through finely-ground coffee beans.",
+        "image": "https://example.com/images/espresso.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Latte",
+        "price": 300,
+        "description": "A coffee drink made with espresso and steamed milk.",
+        "image": "https://example.com/images/latte.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mocha",
+        "price": 350,
+        "description": "A chocolate-flavored variant of a latte.",
+        "image": "https://example.com/images/mocha.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Americano",
+        "price": 220,
+        "description": "A style of coffee prepared by diluting espresso with hot water.",
+        "image": "https://example.com/images/americano.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Black Coffee",
+        "price": 280,
+        "description": "An espresso coffee drink with a small amount of steamed milk.",
+        "image": "https://example.com/images/macchiato.jpg"
+    }

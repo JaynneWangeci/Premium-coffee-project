@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Premium coffee</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>SHANKY'S CAFE</h1>
+    <p>Your source for the finest coffee beans from around the world.</p>
+
+    <nav>
+      <ul class="navbar">
+        <li><a href="#" onclick="showPage('Products')">Products</a></li>
+        <li><a href="#" onclick="showPage('About')">About Us</a></li>
+      </ul>
+    </nav>
+
+    <section  id="Products" class="page" style="display: none;"> 
+      
+    <header>
+      <div class="Trisha">
+        <h1>Premium Coffee</h1>
+        <p>TODAY'S MOOD IS SPONSORED BY PREMIUM Coffee</p>
+        <img src="pic .cafe.jpeg" alt="Premium Coffee" />
+        <div class="search-bar">
+          <input type="text" id="coffee-search" placeholder="Search for coffee..." />
+          <button type="button" id="search-btn">Search</button>
+        </div>
+      </div>
+    </header>
+    <section id="coffee-products"></section>
+
+    <footer>
+      <div class="footer-content">
+        <p>&copy; 2025 Premium Coffee. All rights reserved.</p>
+        <ul class="social-media">
+            <li><a href="https://www.facebook.com/shankyscafe" target="_blank">Facebook</a></li>
+            <li><a href="https://www.instagram.com/shankyscafe" target="_blank">Instagram</a></li>
+            <li><a href="https://www.twitter.com/shankyscafe" target="_blank">Twitter</a></li>
+        </ul>
+      </div>
+    </footer>
+  </div>
+    </section> 
+    <section id="About" class="page" style="display: none;">
+      <h2>About Us</h2>
+      <h2> <b>our Story</b></h2>
+      <p>Our Story
+Shanky’s Cafe was born from a deep love of rich, flavorful coffee and a dream to bring people together over a perfect cup. What started as a small neighborhood coffee shop has grown into a cherished gathering place for coffee lovers, creatives, and community members alike.</p>
+        <h2><b>our mission</b></h2>
+<p>Our Mission
+We’re on a mission to serve premium-quality coffee made from ethically sourced beans. Every cup we brew supports sustainable farming and delivers a taste experience that honors both the grower and the drinker.
+</p>
+        <h2><b>our beans</b></h2>
+<p>
+    Our Beans
+We proudly partner with local and international farmers who share our passion for quality and sustainability. Whether it's a bold espresso or a smooth pour-over, each bean is selected with care and roasted to perfection.</p>
+</p>
+    </section> 
+  <script src="index.js"></script>
+</body>
+</html>
