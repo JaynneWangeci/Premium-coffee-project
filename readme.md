@@ -46,7 +46,7 @@ JavaScript; Interactive elements and dynamic content
 
 Font Awesome; Icon library
 
-Google Fonts: Typography
+Google Fonts; Typography
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
