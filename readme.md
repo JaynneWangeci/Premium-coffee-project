@@ -16,6 +16,7 @@ https://jaynnewangeci.github.io/Premium-coffee-project/
 . License
 
 About
+
 shanky's cafe  is a modern, responsive website for an artisan coffee shop. It showcases premium coffee selections, tells the brand's story, and provides contact information for customers.
 
 Features
