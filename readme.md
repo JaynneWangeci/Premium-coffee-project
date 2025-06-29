@@ -5,7 +5,7 @@ https://jaynnewangeci.github.io/Premium-coffee-project/
  Table of Contents
 . About
 
-Features
+. Features
 
 
 Usage
