@@ -8,7 +8,7 @@ https://jaynnewangeci.github.io/Premium-coffee-project/
 . Features
 
 
-Usage
+. Usage
 
 Technologies
 
